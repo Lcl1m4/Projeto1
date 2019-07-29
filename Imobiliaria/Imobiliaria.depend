@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\aluno\documents\q5roteiro\imobiliaria\main.cpp
+	<iostream>
+
+1563991056 source:c:\users\aluno\documents\q5roteiro\imobiliaria\src\endereco.cpp
+	"Endereco.h"
+
+1563991046 c:\users\aluno\documents\q5roteiro\imobiliaria\include\endereco.h
+	<string>
+
+1563978648 source:c:\users\lc lima\desktop\imobiliaria\main.cpp
+	<iostream>
+
